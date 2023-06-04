@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks for lessons from the [Langchain cours
 Before running any code, ensure you have the following requirements:
 
 - Python (3.10 or newer)
-- - [Poetry](https://python-poetry.org/) for package management
+- [Poetry](https://python-poetry.org/) for package management
 - An OpenAI API key
 
 ### Setup
